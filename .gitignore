@@ -1,0 +1,11 @@
+node_modules/
+
+# clerk configuration (can include secrets)
+/.clerk/
+
+
+# Ignore local environment file (contains real secrets)
+.env.local
+
+# Keep the sample file (tracked in Git)
+!.env.sample

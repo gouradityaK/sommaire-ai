@@ -1,0 +1,13 @@
+{
+  "app": {
+    "[project]/app/(logged-in)/upload/page": [
+      "static/media/nwpStKy2OAdR1K_IwhWudF_R3w8aZejf5Hc-s.p.3638c0d1.woff2"
+    ],
+    "[project]/app/page": [
+      "static/media/nwpStKy2OAdR1K_IwhWudF_R3w8aZejf5Hc-s.p.3638c0d1.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

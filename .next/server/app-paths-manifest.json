@@ -1,0 +1,6 @@
+{
+  "/(logged-in)/upload/page": "app/(logged-in)/upload/page.js",
+  "/api/uploadthing/route": "app/api/uploadthing/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js"
+}
