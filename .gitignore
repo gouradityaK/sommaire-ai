@@ -10,3 +10,4 @@ node_modules/
 # Keep the sample file (tracked in Git)
 !.env.sample
 .next/cache/
+.next/cache/
